@@ -1,11 +1,3 @@
-/**
-* Engenharia de Software Moderna - Testes  (Cap. 8)
-* Prof. Marco Tulio Valente
-* 
-* Exemplo muito simples de teste (Calculadora)
-*
-*/
-
 #include <assert.h>
 #include "ShoppingCart.cpp"
 
