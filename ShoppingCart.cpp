@@ -1,15 +1,3 @@
-/**
-* Engenharia de Software Moderna - Testes  (Cap. 8)
-* Prof. Marco Tulio Valente
-* 
-* Exemplo simples de teste (ShoppingCart)
-*
-*/
-
-/**
-* Classe que será testada
-*/
-
 #include <list>
 #include "Item.cpp"
 
